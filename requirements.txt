@@ -1,0 +1,10 @@
+Django==4.1
+python-decouple
+Pillow
+djangorestframework
+markdown 
+django-filter
+drf-yasg[validation]
+django-mail-templated
+djangorestframework-simplejwt
+djoser
