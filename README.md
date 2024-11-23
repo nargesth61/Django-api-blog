@@ -1,2 +1,2 @@
-# Advance-jango-blog
+# Advance-django-blog
  
